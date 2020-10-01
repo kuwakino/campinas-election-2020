@@ -1,14 +1,20 @@
 # Campinas Election - 2020
 
 =======================================
+
 Project to analyse proposals from mayor candidates to 2020 elections in Campinas-SP, Brazil.
 - Campinas: https://en.wikipedia.org/wiki/Campinas
 - Campinas-Official: http://www.campinas.sp.gov.br/
 - Data Source: http://divulgacandcontas.tse.jus.br/divulga/#/municipios/2020/2030402020/62910/candidatos
 Project developed on Jupyter Notebook.
+
 ========================================
 
 Projeto para analisar propostas de candidatos a prefeito de Campinas-SP em 2020.
+
+Propostas incluídas na candidatura de cada prefeito.
+Excluindo 2 casos: Dr. Hélio que usou scan e fotos no pdf enviado, Rogério Menezes não enviou proposta.
+
 
 "Nome Completo"|"Nome Urna"|"Cargo"|"Número"|"Partido"|"Coligação"|"Situação"|"Situação Pós-Pleito"|"Proposta"
 -------------- | --------- | ----- | ------ | ------- | --------- | -------- | ------------------- | ---------
