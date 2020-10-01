@@ -12,7 +12,8 @@ Project developed on Jupyter Notebook.
 
 Projeto para analisar propostas de candidatos a prefeito de Campinas-SP em 2020.
 
-Propostas incluídas na candidatura de cada prefeito.
+Propostas incluídas no registro de candidatura enviada ao TSE por cada prefeito.
+
 Excluindo 2 casos: Dr. Hélio que usou scan e fotos no pdf enviado, Rogério Menezes não enviou proposta.
 
 
