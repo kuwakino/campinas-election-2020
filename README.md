@@ -14,7 +14,10 @@ Projeto para analisar propostas de candidatos a prefeito de Campinas-SP em 2020.
 
 Propostas incluídas no registro de candidatura enviada ao TSE por cada prefeito.
 
-Excluindo 2 casos: Dr. Hélio que usou scan e fotos no pdf enviado, Rogério Menezes não enviou proposta.
+Excluindo 1 caso: Dr. Hélio que usou scan e fotos no pdf enviado
+
+Rogério Menezes não enviou proposta ado TSE, mas dispónibilizou em site.
+[2020-10-04] https://www.rogeriomenezesdemello.com.br/post/plano-de-governo-em-frente-campinas
 
 
 "Nome Completo"|"Nome Urna"|"Cargo"|"Número"|"Partido"|"Coligação"|"Situação"|"Situação Pós-Pleito"|"Proposta"
@@ -29,7 +32,7 @@ Excluindo 2 casos: Dr. Hélio que usou scan e fotos no pdf enviado, Rogério Men
 "PEDRO TOURINHO DE SIQUEIRA"|"PEDRO TOURINHO"|"Prefeito"|13|"PT"|"DEMOCRACIA, DIREITOS E LIBERDADE"|"Aguardando julgamento"|"Concorrendo"|"PDF"
 "AHMED TARIQUE TOMBOUCTOU AGIO"|"PROF AHMED TARIQUE AGIO"|"Prefeito"|33|"PMN"|"PMN"|"Aguardando julgamento"|"Concorrendo"|"PDF"
 "RAFAEL FERNANDO ZIMBALDI"|"RAFA ZIMBALDI"|"Prefeito"|22|"PL"|"MAIS POR CAMPINAS, MELHOR PRA VOCÊ"|"Aguardando julgamento"|"Concorrendo"|"PDF"
-"ROGERIO MENEZES DE MELLO"|"ROGERIO MENEZES"|"Prefeito"|43|"PV"|"PV"|"Aguardando julgamento"|"Concorrendo"|"NC"
+"ROGERIO MENEZES DE MELLO"|"ROGERIO MENEZES"|"Prefeito"|43|"PV"|"PV"|"Aguardando julgamento"|"Concorrendo"|"EXT"
 "ROGÉRIO STRACIALANO PARADA"|"ROGERIO PARADA"|"Prefeito"|28|"PRTB"|"PRTB"|"Aguardando julgamento"|"Concorrendo"|"PDF"
 "WILSON KELLER DE MATOS"|"WILSON MATOS"|"Prefeito"|51|"PATRIOTA"|"PATRIOTA"|"Aguardando julgamento"|"Concorrendo"|"PDF"
 
