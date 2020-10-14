@@ -39,7 +39,7 @@ Rogério Menezes recuperado em 2020-10-04: https://consultaunificadapje.tse.jus.
 
 ## Análises
 Subtração de palavras: preposições, artigos, conjunções, etc;
-Lista de palavras exclu´rdas das análises: ['campinas','municipal','ser','município','ações', 'gestão','cidade','cidades','governo','pública','público','forma','todos', 'áreas','acesso','uso','sobre','número','programa','sistema','meio', 'prefeitura','secretaria','processo', 'desta']
+Lista de palavras excluídas das análises: ['campinas','municipal','ser','município','ações', 'gestão','cidade','cidades','governo','pública','público','forma','todos', 'áreas','acesso','uso','sobre','número','programa','sistema','meio', 'prefeitura','secretaria','processo', 'desta']
 
 ### Nuvem de palavras (word cloud)
 Nuvem de palavras de cada proposta. Quanto maior a fonte, mais ocorrências;
@@ -52,13 +52,13 @@ Com base na pesquisa do Ibope para a cidade de São Paulo realizada entre 15/09/
 Agrupamento de problemas usados na pesquisa (ver abaixo "Lista de Problemas") em temas:
 - Mobilidade e zeladoria:'mobilidade','zeladoria','Trânsito','Transporte','Calçamento','ruas','avenidas','Iluminação','limpeza'
 - Esporte, cultura e lazer: 'esporte','lazer','cultura','esportivas','culturais','cultural','esportiva','parque','praça','quadra'
-- Saúde: 'Saúde','hospital','vida'
-- Educação: 'Educação','escola','criança', 'creche'
-- Segurança: 'Segurança','guarda'
-- Habitação e assistência social: 'Habitação','Assistência Social'
-- Trabalho e Economia: 'trabalho','Empregos','economia','empresa','imposto','taxa'
-- Meio ambiente: 'Meio ambiente','ambiente','ambiental','Abastecimento','esgoto','saneamento','água'
-- Corrupção e cidadania: 'Corrupção','transparência','cidadania','participativo','participativa'
+- Saúde: 'Saúde','hospital','vida','bem estar'
+- Educação: 'Educação','escola','criança', 'creche','professor','professora','professores'
+- Segurança: 'Segurança','guarda','polícia','policiamento'
+- Habitação e assistência social: 'Habitação','Assistência Social','moradia'
+- Trabalho e Economia: 'trabalho','Empregos','economia','empresa','imposto','taxa','desigualdade','indústria', 'energia','agricultura','pobreza'
+- Meio ambiente: 'Meio ambiente','ambiente','ambiental','Abastecimento','esgoto','saneamento','água','sustentabilidade','sustentável','clima'
+- Corrupção e cidadania: 'Corrupção','transparência','cidadania','participativo','participativa','participação','comunidade'
 
 Publicação: https://www.ibopeinteligencia.com/noticias-e-pesquisas/a-poucos-dias-do-inicio-da-campanha-eleitoral-celso-russomanno-esta-numericamente-a-frente-mas-tecnicamente-empatado-com-bruno-covas-na-disp/
 Pesquisa: https://www.ibopeinteligencia.com/arquivos/JOB_0183_S%C3%83O%20PAULO%20-%20Relat%C3%B3rio%20de%20tabelas.pdf
@@ -86,3 +86,10 @@ Pergunta: "Desta lista de áreas onde as pessoas vem enfrentando problemas de ma
 - Opções de lazer
 - Rede de esgoto
 - Corrupção
+
+### Categorias extras
+- Inclusão e Diversidade: 'diversidade','igualdade','racismo','inclusão'
+- Tecnologia: 'tecnologia', 'aplicativo','software','indústria 4.0','inovação'
+
+Categorais adicionais para cobrir pontos do Pacto Global dos 17 Objetivos de Desenvolvimento Sustentável (ODS).
+https://www.pactoglobal.org.br/ods
